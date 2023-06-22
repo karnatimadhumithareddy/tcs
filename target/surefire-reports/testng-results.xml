@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T13:16:13 IST" name="mysuite" finished-at="2023-06-20T13:16:24 IST" duration-ms="10545">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T13:16:13 IST" name="mytest" finished-at="2023-06-20T13:16:24 IST" duration-ms="10545">
+      <class name="TestNg.datadriventesting">
+        <test-method signature="All()[pri:0, instance:TestNg.datadriventesting@2f7298b]" started-at="2023-06-20T13:16:13 IST" name="All" finished-at="2023-06-20T13:16:23 IST" duration-ms="10499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- All -->
+      </class> <!-- TestNg.datadriventesting -->
+    </test> <!-- mytest -->
+  </suite> <!-- mysuite -->
+</testng-results>
